@@ -1,8 +1,7 @@
-<html lang="en">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>August 15 Travel Deals</title>
+  <title>Available Travel Deals!</title>
   <meta name="description" content="Hand-picked travel deals for August 15, 2025 – Panama, Canada, Thailand and more." />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -41,7 +40,7 @@
     <div class="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
       <div class="flex items-center gap-2">
         <span class="text-2xl">🌴</span>
-        <h1 class="text-xl sm:text-2xl font-extrabold tracking-tight">August 15 Travel Deals</h1>
+        <h1 class="text-xl sm:text-2xl font-extrabold tracking-tight">Available Travel Deals!</h1>
       </div>
       <a href="#contact" class="hidden sm:inline-flex items-center gap-2 px-3 py-2 text-sm font-semibold rounded-xl bg-brand-500 text-white shadow hover:bg-brand-600 transition">Book Now</a>
     </div>
