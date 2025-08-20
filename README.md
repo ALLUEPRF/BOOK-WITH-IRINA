@@ -51,7 +51,7 @@
       <div class="rounded-3xl p-6 md:p-8 bg-gradient-to-br from-brand-50 to-white border border-slate-200 shadow-sm">
         <div class="flex flex-col md:flex-row items-start md:items-center gap-4 md:gap-6">
           <div class="flex-1">
-            <h2 class="text-2xl md:text-3xl font-extrabold mb-1">Today’s picks — <span id="today" class="text-brand-700">August 15, 2025</span></h2>
+            <h2 class="text-2xl md:text-3xl font-extrabold mb-1">Today’s DEAL — <span id="today" class="text-brand-700"></span></h2>
             <p class="text-slate-600">Hotel + Flight + Transfer unless noted. Prices in <strong>USD per person</strong>. Prices may change until booked.</p>
           </div>
           <div class="flex items-center gap-2">
