@@ -2,7 +2,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Available Travel Deals!</title>
-  <meta name="description" content="Hand-picked travel deals for August 15, 2025 – Panama and more." />
+  <meta name="description" content="Hand-picked travel deals – Panama and more." />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap" rel="stylesheet">
@@ -51,7 +51,7 @@
       <div class="rounded-3xl p-6 md:p-8 bg-gradient-to-br from-brand-50 to-white border border-slate-200 shadow-sm">
         <div class="flex flex-col md:flex-row items-start md:items-center gap-4 md:gap-6">
           <div class="flex-1">
-            <h2 class="text-2xl md:text-3xl font-extrabold mb-1">Today’s picks — <span id="today" class="text-brand-700">August 15, 2025</span></h2>
+            <h2 class="text-2xl md:text-3xl font-extrabold mb-1">Today’s Available Deals!</h2>
             <p class="text-slate-600">Hotel + Flight + Transfer unless noted. Prices in <strong>USD per person</strong>. Prices may change until booked.</p>
           </div>
           <div class="flex items-center gap-2">
@@ -150,7 +150,6 @@
     document.getElementById('sortSelect').addEventListener('change', applyFilters);
 
     document.getElementById('year').textContent = new Date().getFullYear();
-    document.getElementById('today').textContent = new Date().toLocaleDateString(undefined, { year:'numeric', month:'long', day:'numeric'});
     applyFilters();
   </script>
 </body>
