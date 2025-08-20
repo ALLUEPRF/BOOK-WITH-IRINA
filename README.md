@@ -59,8 +59,6 @@
             <select id="destinationFilter" class="px-3 py-2 rounded-xl border bg-white">
               <option value="all">All destinations</option>
               <option value="Panama">Panama</option>
-              <option value="Canada">Canada</option>
-              <option value="Thailand">Thailand</option>
             </select>
             <select id="sortSelect" class="px-3 py-2 rounded-xl border bg-white">
               <option value="priceAsc">Sort: Price (Low → High)</option>
@@ -107,14 +105,6 @@
       { destination:'Panama', title:'Riu Plaza Panama', dates:'Nov 24–28, 2025', price:750.37, includes:['flight','hotel','transfer'] },
       { destination:'Panama', title:'Exe Oriental Panama', dates:'Nov 24–28, 2025', price:680.03, includes:['flight','hotel','transfer'] },
       { destination:'Panama', title:'Yoo Panama by Boutique Apartments', dates:'Nov 24–28, 2025', price:716.50, includes:['flight','hotel','transfer'] },
-      { destination:'Canada', title:'Smithe House, Vancouver', dates:'Aug 2025', price:472.00, includes:['flight','hotel','transfer'] },
-      { destination:'Canada', title:'The Laundry Rooms, Cambridge', dates:'Aug 2025', price:641.00, includes:['flight','hotel','transfer'] },
-      { destination:'Canada', title:'1 Hotel Toronto', dates:'Aug 2025', price:1218.00, includes:['flight','hotel','transfer'] },
-      { destination:'Canada', title:'Summit Lodge Boutique Hotel (Whistler)', dates:'Aug 2025', price:945.00, includes:['flight','hotel','transfer'] },
-      { destination:'Thailand', title:'Hope Land Hotel Sukhumvit 46/1, Bangkok', dates:'Aug 2025', price:260.00, includes:['flight','hotel','transfer'] },
-      { destination:'Thailand', title:'Klub Hotel, Bangkok', dates:'Aug 2025', price:295.00, includes:['flight','hotel','transfer'] },
-      { destination:'Thailand', title:'Hotel Icon Bangkok Sukhumvit 2', dates:'Aug 2025', price:336.00, includes:['flight','hotel','transfer'] },
-      { destination:'Thailand', title:'Centre Point Plus Hotel Pratunam, Bangkok', dates:'Aug 2025', price:483.00, includes:['flight','hotel','transfer'] }
     ];
 
     const icons = { flight: '✈️', hotel: '🏨', transfer: '🚐' };
