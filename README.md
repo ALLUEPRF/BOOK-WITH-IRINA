@@ -2,7 +2,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Available Travel Deals!</title>
-  <meta name="description" content="Hand-picked travel deals for August 15, 2025 – Panama, Canada, Thailand and more." />
+  <meta name="description" content="Hand-picked travel deals for August 15, 2025 – Panama and more." />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap" rel="stylesheet">
@@ -104,7 +104,7 @@
       { destination:'Panama', title:'Aloft Panama', dates:'Nov 24–28, 2025', price:745.22, includes:['flight','hotel','transfer'] },
       { destination:'Panama', title:'Riu Plaza Panama', dates:'Nov 24–28, 2025', price:750.37, includes:['flight','hotel','transfer'] },
       { destination:'Panama', title:'Exe Oriental Panama', dates:'Nov 24–28, 2025', price:680.03, includes:['flight','hotel','transfer'] },
-      { destination:'Panama', title:'Yoo Panama by Boutique Apartments', dates:'Nov 24–28, 2025', price:716.50, includes:['flight','hotel','transfer'] },
+      { destination:'Panama', title:'Yoo Panama by Boutique Apartments', dates:'Nov 24–28, 2025', price:716.50, includes:['flight','hotel','transfer'] }
     ];
 
     const icons = { flight: '✈️', hotel: '🏨', transfer: '🚐' };
@@ -155,3 +155,4 @@
   </script>
 </body>
 </html>
+
